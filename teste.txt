@@ -1,0 +1,11 @@
+git show - ce s-a modificat
+git clone _link_ - descarci repository
+
+git add _nume-fisier_ / . (all)  adaugi fisierele in commit
+git commit -m "small fix"  - face versionarea
+git push - urca fiserele pe repository online
+git pull - da jos fisierele/ actualizeaza pe local
+
+
+$ git config user.name "John Doe"
+$ git config user.email johndoe@example.com
